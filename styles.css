@@ -3,7 +3,7 @@ html {
 }
 
 body, h1, h2, h3, p, ul, li, form, input, textarea, button {
-  margin: 0;
+  margin: 1;
   padding: 0;
   box-sizing: border-box;
 }
